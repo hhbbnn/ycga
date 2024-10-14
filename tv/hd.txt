@@ -30,7 +30,7 @@ CCTV4美洲,http://182.104.129.23/PLTV/88888888/224/3221226962/77799052.smil/ind
 风云音乐,http://10.231.253.152/PLTV/88888888/224/3221226994/86128897.smil/index.m3u8?fmt=ts2hls$江西电信
 世界地理,http://10.231.253.152/PLTV/88888888/224/3221226965/86128966.smil/index.m3u8?fmt=ts2hls$江西电信
 高尔夫网球,http://10.231.253.152/PLTV/88888888/224/3221226967/86128985.smil/index.m3u8?fmt=ts2hls$江西电信#http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-央视精品,http://10.231.253.152/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls$江西电信#http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+央视文化精品,http://10.231.253.152/PLTV/88888888/224/3221226957/86128679.smil/index.m3u8?fmt=ts2hls$江西电信#http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 央视台球,http://10.231.253.152/PLTV/88888888/224/3221226955/86106661.smil/index.m3u8?fmt=ts2hls$江西电信#http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 女性时尚,http://10.231.253.152/PLTV/88888888/224/3221226998/86128978.smil/index.m3u8?fmt=ts2hls$江西电信
 电视指南,http://10.231.253.152/PLTV/88888888/224/3221226969/86129034.smil/index.m3u8?fmt=ts2hls$江西电信#http://[2409:8087:6a01:1020::105]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls#migu://606889139
